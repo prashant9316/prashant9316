@@ -2,9 +2,6 @@
 
 <!--
 **prashant9316/prashant9316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Currently I am working on creating [Deep Learning GUI v0.1.3](https://prashant9316.github.io/Deep-Learning-GUI-beta/) which can be found on this [repository](https://github.com/prashant9316/Deep-Learning-GUI-beta), where you can host your Deep Learning Models without server. Want to become the person to test it out??
+- I recently created Neural Style Transfer using VGG19 which can be found in this [repository](https://github.com/prashant9316/Neural-Style-Transfer)
+
