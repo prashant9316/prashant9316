@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Currently working on creating Automated Drone System using Esp32 MCU based on Arduino.  
+- Currently working on FPV Drone System and Web Development using Next, React, NodeJS, MongoDB, Firebase, etc.  
 - 🔭 Currently I am working on creating [Deep Learning GUI v0.1.3](https://prashant9316.github.io/Deep-Learning-GUI-beta/) which can be found on this [repository](https://github.com/prashant9316/Deep-Learning-GUI-beta), where you can host your Deep Learning Models without server. Want to become the person to test it out??
 - I recently created Neural Style Transfer using VGG19 which can be found in this [repository](https://github.com/prashant9316/Neural-Style-Transfer)
 
