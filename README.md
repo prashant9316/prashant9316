@@ -5,7 +5,10 @@ I build things that fly — and the software that keeps them in the air.
 I work across the whole drone stack: custom ArduPilot firmware and board ports, radio links,
 ground-control apps, and the full-stack web platforms that manage fleets, inventory and customers around them.
 
-🌐 **[prashant9316.github.io](https://prashant9316.github.io/)** · 💼 [LinkedIn](https://www.linkedin.com/in/prashant-mishra-673365166/) · 📫 [pgmd.9873@gmail.com](mailto:pgmd.9873@gmail.com)
+I love solving problems — and I don't stop at solving them, I own them. Once something is mine, I see it through
+to the finish and I'm proud to put my name on the result.
+
+🌐 **[prashant9316.github.io](https://prashant9316.github.io/)** · 💼 [LinkedIn](https://www.linkedin.com/in/prashant-mishra-673365166/) · 📸 [@itspfpv](https://www.instagram.com/itspfpv/) · 📫 [pgmd.9873@gmail.com](mailto:pgmd.9873@gmail.com)
 
 #### What I'm working on
 
@@ -35,4 +38,4 @@ ground-control apps, and the full-stack web platforms that manage fleets, invent
 - **Web & apps:** TypeScript · React · Next.js · SolidJS · Tauri · Tailwind · Node.js · MongoDB · Firebase
 - **Design & media:** Photoshop · Illustrator · After Effects · Premiere Pro
 
-⚡ Off the clock: hip-hop and street dance, football, and too many HIMYM re-watches.
+⚡ Off the clock: anime (Naruto, One Piece, Bleach, Black Clover, Attack on Titan, Tokyo Revengers and plenty more), rom-coms and sci-fi series, hip-hop and street dance, and football.
